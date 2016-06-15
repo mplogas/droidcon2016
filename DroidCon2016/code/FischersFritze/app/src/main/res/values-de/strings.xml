@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fischers Fritze</string>
+    <string name="pref_display_name_default">Max Mustermann</string>
+    <string name="pref_language">Sprache</string>
+    <string name="pref_rec_duration">Aufnahmedauer</string>
+    <string name="title_activity_settings">Einstellungen</string>
+    <string name="language_de">Deutsch</string>
+    <string name="language_en">Englisch</string>
+    <string name="language_fr">Französisch</string>
+    <string name="rec_duration_long">Lang</string>
+    <string name="rec_duration_short">Kurz</string>
+    <string name="score_text">Deine Punktzahl beträgt %d von 100</string>
+    <string name="pref_display_name">Spielername</string>
+</resources>

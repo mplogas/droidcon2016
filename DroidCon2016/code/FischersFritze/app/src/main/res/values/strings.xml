@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Fischers Fritze</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="permissions" translatable="false">permissions</string>
+    <string name="oxford_api" translatable="false">8a86ada4e2d0471e8d90b65ffd0fdc3a</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="rec_duration_short">short</string>
+    <string name="rec_duration_long">long</string>
+    <string name="language_en">english</string>
+    <string name="language_fr">french</string>
+    <string name="language_de">german</string>
+    <string name="score_text">Your score is %d of 100</string>
+
+    <!-- oxford -->
+    <string name="primaryKey" translatable="false">add your primary key</string>
+    <string name="secondaryKey" translatable="false">add your secondary key</string>
+
+    <!-- settings -->
+    <string name="pref_display_name_key" translatable="false">display_name</string>
+    <string name="pref_display_name">Player name</string>
+    <string name="pref_display_name_default">John Doe</string>
+
+    <string name="pref_rec_duration_key" translatable="false">rec_duration</string>
+    <string name="pref_rec_duration">Recording Duration</string>
+    <string name="pref_rec_duration_default" translatable="false">0</string>
+    <string-array name="pref_rec_duration_titles">
+        <item>@string/rec_duration_short</item>
+        <item>@string/rec_duration_long</item>
+    </string-array>
+    <string-array name="pref_rec_duration_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string name="pref_language_key" translatable="false">language</string>
+    <string name="pref_language">Language</string>
+    <string name="pref_language_default" translatable="false">en-us</string>
+    <string-array name="pref_language_titles">
+        <item>@string/language_en</item>
+        <item>@string/language_fr</item>
+        <item>@string/language_de</item>
+    </string-array>
+    <string-array name="pref_language_values">
+        <item>en-us</item>
+        <item>fr-fr</item>
+        <item>de-de</item>
+    </string-array>
+
+</resources>
